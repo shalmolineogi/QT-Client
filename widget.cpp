@@ -81,6 +81,4 @@ void Widget::Write()
     }
 }
 
-//https://www.youtube.com/watch?v=dcSsjxhazu0
-//https://www.bogotobogo.com/Qt/Qt5_QThreads_QMutex.php
-//https://www.toptal.com/qt/qt-multithreading-c-plus-plus
+
