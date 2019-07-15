@@ -90,3 +90,5 @@ private:
 
 
 #endif // WIDGET_H
+//https://www.adityatekkali.edu.in/iipc/AITAM_INTERNSHIP_REPORT_GUIDELINES.pdf
+//https://www.slideshare.net/meenalpandey/project-report-13812017
